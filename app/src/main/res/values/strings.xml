@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">Pokémon</string>
+    <string name="mis_pokemons">Mis Pokémons</string>
+    <string name="pokedex" translatable="false">Pokédex</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="email">Email</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="acceder">Acceder</string>
+    <string name="registrar">Registrar</string>
+    <string name="registro">¿No tienes cuenta? Regístrate</string>
+    <string name="inicio_sesion">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <string name="error_respuesta">Error en la respuesta</string>
+    <string name="error_conexion">Error de conexión: </string>
+
+    <string name="campos_vacios">Quedan campos sin rellenar</string>
+    <string name="campos_error">El email o la contraseña no son válidos</string>
+    <string name="contraseña_corta">La contraseña debe tener mínimo ocho carácteres</string>
+
+    <string name="capturado">Pokémon capturado</string>
+
+    <string name="idioma">Idioma</string>
+    <string name="eliminar">Eliminar mis Pokémons</string>
+    <string name="acerca">Acerca de...</string>
+    <string name="mensaje_acerca">Eduardo Amador González Versión 1.0.0</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="mensaje_cerrar_sesion">¿Estás seguro que deseas cerrar sesión?</string>
+    <string name="si">Sí</string>
+    <string name="no" translatable="false">No</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mis_pokemons">My Pokémons</string>
+    <string name="ajustes">Settings</string>
+    <string name="email">Email</string>
+    <string name="contraseña">Password</string>
+    <string name="acceder">Access</string>
+    <string name="registrar">Log in</string>
+    <string name="registro">Don\'t have an account? Sign up</string>
+    <string name="inicio_sesion">"Already have an account? Sign in "</string>
+    <string name="error_respuesta">Response error</string>
+    <string name="error_conexion">Conection error</string>
+    <string name="campos_vacios">There are fields left unfilled</string>
+    <string name="campos_error">The email or password is not valid</string>
+    <string name="contraseña_corta">The password must be at least eight characters long.</string>
+    <string name="capturado">Pokémon captured</string>
+    <string name="idioma">Language</string>
+    <string name="eliminar">Delete my Pokémons</string>
+    <string name="acerca">About...</string>
+    <string name="mensaje_acerca">Eduardo Amador González\nVersion 1.0.0</string>
+    <string name="cerrar_sesion">Sign out</string>
+    <string name="mensaje_cerrar_sesion">Are you sure you want to sign out?</string>
+    <string name="si">Yes</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_mis_pokemons">
+
+    <fragment
+        android:id="@+id/navigation_mis_pokemons"
+        android:name="com.example.amador_gonzalez_eduardo_pmdm03.ui.mis_pokemons.MisPokemonsFragment"
+        android:label="@string/mis_pokemons"
+        tools:layout="@layout/fragment_mis_pokemons" />
+
+    <fragment
+        android:id="@+id/navigation_pokedex"
+        android:name="com.example.amador_gonzalez_eduardo_pmdm03.ui.pokedex.PokedexFragment"
+        android:label="@string/pokedex"
+        tools:layout="@layout/fragment_pokedex" />
+
+    <fragment
+        android:id="@+id/navigation_ajustes"
+        android:name="com.example.amador_gonzalez_eduardo_pmdm03.ui.ajustes.AjustesFragment"
+        android:label="@string/ajustes"
+        tools:layout="@layout/fragment_ajustes" />
+</navigation>

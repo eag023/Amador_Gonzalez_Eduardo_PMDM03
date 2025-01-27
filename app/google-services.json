@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264450751649",
+    "project_id": "pokemon-6cb07",
+    "storage_bucket": "pokemon-6cb07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264450751649:android:4b4e2360298192845cc4e0",
+        "android_client_info": {
+          "package_name": "com.example.amador_gonzalez_eduardo_pmdm03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJhEGnQAgvGumJ26aoCLQZ4edVLhFjVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
