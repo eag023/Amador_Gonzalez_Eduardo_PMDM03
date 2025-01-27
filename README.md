@@ -1,4 +1,4 @@
-Aplicación desarrollada para tener un listado de pokémons los cuales pueden ser capturados.
+**Aplicación desarrollada para tener un listado de pokémons los cuales pueden ser capturados.**
 ## CARACTERÍSTICAS PRINCIPALES:
 - Pantalla de autenticación
 - Pantalla de pokémons capturados
